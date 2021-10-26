@@ -1,7 +1,7 @@
 Package: diffuStats
 Type: Package
 Title: Diffusion scores on biological networks
-Version: 1.14.0
+Version: 1.15.0
 Authors@R: c(
     person(
         "Sergio", "Picart-Armada", role = c("aut", "cre"),
